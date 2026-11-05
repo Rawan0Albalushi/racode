@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RACODE">
+  <rect width="64" height="64" fill="#210C17"/>
+  <path d="M24 16 L12 32 L24 48" fill="none" stroke="#E8A3BB" stroke-width="3.5"/>
+  <path d="M40 16 L52 32 L40 48" fill="none" stroke="#A83F67" stroke-width="3.5"/>
+  <path d="M36 12 L28 52" fill="none" stroke="#F8F0F3" stroke-width="3.5"/>
+</svg>
